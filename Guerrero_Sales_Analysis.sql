@@ -275,8 +275,8 @@ volume with 9,862 transactions. This suggests customers are frequently purchasin
 transaction. To capitalize on this demand, introducing bundle promotions that pair Stationery & Supplies with 
 higher ticket categories could increase average transaction size and drive increased revenue from a customer 
 base that already exists. Possible bundles could include Books (General) or Art Supplies to gear toward a student
-base as a back-to-school or premium studying bundle. Both categories average around $32 per transaction but have 
-lower transaction counts, indicating the bundle would benefit all three categories by increasing transaction counts
+consumer base as a back-to-school or premium studying bundle. Both categories average around $32 per transaction 
+but have lower transaction counts, indicating the bundle would benefit all three categories by increasing transaction counts
 and therefore revenue across the board.
 
 Despite being the second highest revenue category at $1.5 million, the Textbooks category is a concern. Revenue has declined
@@ -295,4 +295,4 @@ For the lowest performing store, Annapolis, a dual improvement plan could be imp
 promotions to drive foot traffic, while also conducting further research into whether location or city population are contributing factors 
 outside of management's control. As a store with a student-driven customer base, Maryland's next quarter success depends on strengthening
 what works currently for top-performing stores, stabilizing what's declining, and closing the performance gap across stores.
-
+*/
