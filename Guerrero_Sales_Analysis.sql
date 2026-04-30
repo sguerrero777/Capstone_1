@@ -266,8 +266,8 @@ The category commands the top average transaction size of $454, indicating stron
 to spend on premium products. To leverage this, bundle promotions for products with lower transaction count, 
 such as the MSI Creator Z16, could increase transaction sales for a potentially high-revenue product. 
 For high-demand products such as the Lenovo IdeaPad Flex 5, which leads in transaction volume at 194 units 
-but averages only $1,294 per transaction compared to the MSI's $1,764, further pricing analysis is recommended before any price adjustments to avoid disrupting 
-existing demand.
+but averages only $1,294 per transaction compared to the MSI's $1,764, further pricing analysis is recommended 
+before any price adjustments to avoid disrupting existing demand.
 
 Stationery & Supplies is a low performing category, but with potential worth re-examining. While revenue 
 sits at $102,807 with an average of $10.44 per transaction, it is the second leading category in transaction 
