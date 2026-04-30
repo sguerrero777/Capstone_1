@@ -263,10 +263,10 @@ Based on the analysis, Reddy's primary focus for the next quarter should be Tech
 which generated $5 million in revenue, with a steady increase each fiscal year and a jump of
 $521,971 in 2025 alone, with no signs of slowing down based on four years of consistent growth.
 The category commands the top average transaction size of $454, indicating strong customer willingness 
-to spend on premium products. To leverage this, bundle promotions for products with lower transaction volume, 
-such as the MSI Creator Z16, could increase transaction value. For high-demand products such as the Lenovo 
-IdeaPad Flex 5, which leads in transaction volume at 194 units but averages only $1,294 per transaction compared
-to the MSI's $1,764, further pricing analysis is recommended before any price adjustments to avoid disrupting 
+to spend on premium products. To leverage this, bundle promotions for products with lower transaction count, 
+such as the MSI Creator Z16, could increase transaction sales for a potentially high-revenue product. 
+For high-demand products such as the Lenovo IdeaPad Flex 5, which leads in transaction volume at 194 units 
+but averages only $1,294 per transaction compared to the MSI's $1,764, further pricing analysis is recommended before any price adjustments to avoid disrupting 
 existing demand.
 
 Stationery & Supplies is a low performing category, but with potential worth re-examining. While revenue 
@@ -283,16 +283,17 @@ Despite being the second highest revenue category at $1.5 million, the Textbooks
 twice, once in 2023 and in 2025. Although the decline was not consecutive, with a small recovery of $1,491 in 2024, the second 
 decline in 2025 was a staggering $99,322, which is worse than the initial drop. It would be a risk to continue investing heavily 
 in textbook inventory, but as a student-geared bookstore chain it shouldn't be entirely eliminated. Instead, management should focus
-on demand-based stocking decisions and exploring a potential merge with the Books (General) category to maximize budgeting while
+on demand-based stocking decisions and exploring a potential consolidation with the Books (General) category to maximize budgeting while
 minimizing potential heavy losses as textbooks are continuously updated.
 
 At the store level, the Harford location accounts for $8.7 million of Maryland's total revenue, driven by transaction volume rather 
 than transaction size. Many factors could contribute to its disproportionate success compared to other stores, such as location, 
 store size, or highly experienced staff. Reddy should investigate the sales tactics used by employees at the Harford location and 
 implement them across mid-level and lower performing stores.  Besides Harford as the outlier, most store performance is consistent, 
-falling within the $300k to $320k range. These stores may benefit most from bundle promotions and targeted local marketing campaigns. 
-For the lowest performing store, Annapolis, a dual improvement plan could be implemented targeting improved staff training and seasonal
-promotions to drive foot traffic, while also conducting further research into whether location or city population are contributing factors 
-outside of management's control. As a store with a student-driven customer base, Maryland's next quarter success depends on strengthening
-what works currently for top-performing stores, stabilizing what's declining, and closing the performance gap across stores.
+falling within the $288k to $320k range, with Germantown being an secondary outlier at $584,676. These stores may benefit most from 
+bundle promotions and targeted local marketing campaigns. For the lowest performing store, Annapolis, a dual improvement plan could be 
+implemented targeting improved staff training and seasonal promotions to drive foot traffic, while also conducting further research into 
+whether location or city population are contributing factors outside of management's control. As a store with a student-driven customer base, 
+Maryland's next quarter success depends on strengthening what works currently for top-performing stores, stabilizing what's declining, and 
+closing the performance gap across stores. Maryland is clearing a strong performing territory and clear opportunities for targeted growth.
 */
