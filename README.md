@@ -1,12 +1,10 @@
 # Capstone_1: EmporiUm Sales Territory Analysis
 
----
 
 ## Overview and Objectives
 
 Sales Manager Shruti Reddy assigned me to perform a sales analysis for EmporiUm, a student bookstore chain that sells technology, textbooks, art supplies, and other products across the U.S. This analysis focuses on the Maryland territory and utilizes SQL and Excel to target key business questions, identify trends, and deliver data-driven recommendations for the next quarter. Additional exploration is included in the interactive Excel dashboard.
 
----
 
 ## Sales Territory Details
 
@@ -17,7 +15,6 @@ Sales Manager Shruti Reddy assigned me to perform a sales analysis for EmporiUm,
 - **Scope of Analysis:** In-Store Sales for January 1, 2022 – December 31, 2025
 - Online Sales is its own sales territory managed separately in the West region and is therefore excluded from this analysis.
 
----
 
 ## KPI Summary for Maryland
 
@@ -28,7 +25,6 @@ Sales Manager Shruti Reddy assigned me to perform a sales analysis for EmporiUm,
 - **At-Risk Category:** Textbooks declined twice, in 2023 and again in 2025 (-$99,322)
 - **Growth Opportunity:** Stationery & Supplies ranks #2 in transaction volume (9,862 transactions) despite only $102,807 in revenue
 
----
 
 ## Table of Contents
 
@@ -40,7 +36,6 @@ Sales Manager Shruti Reddy assigned me to perform a sales analysis for EmporiUm,
 
 > **Note:** Download and open `Guerrero_Maryland_Chart.xlsx` in Microsoft Excel for proper viewing. GitHub's preview may not render date and currency formatting correctly.
 
----
 
 ## Tools Used
 
@@ -49,11 +44,9 @@ Sales Manager Shruti Reddy assigned me to perform a sales analysis for EmporiUm,
 - **Git & GitHub** — version control and project management
 - **PowerPoint** — presentation and recording
 
----
 
 ## Video Demo
 
----
 
 ## Author
 
