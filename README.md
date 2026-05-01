@@ -32,7 +32,8 @@ Sales Manager Shruti Reddy assigned me to perform a sales analysis for EmporiUm,
 - `sample_sales_all.sql` — Source data used for the analysis
 - `Guerrero_Maryland_Chart.xlsx` — Excel workbook with dashboard, pivot tables, KPI metrics, and executive report
 - `Guerrero_Presentation.pptx` — PowerPoint slide deck used for the 10-minute recorded presentation
-- `Guerrero_Presentation_5min.pptx` — Condensed PowerPoint slide deck used for the 5-minute live presentation
+- `Guerrero_Presentation_5min.pptx` — Condensed PowerPoint slide deck used for the 5-minute live presentation\
+- `CSV_Exports/` — Folder containing CSV exports of all SQL query results for organization purposes
 
 > **Note:** Download and open `Guerrero_Maryland_Chart.xlsx` in Microsoft Excel for proper viewing. GitHub's preview may not render date and currency formatting correctly.
 
