@@ -16,7 +16,7 @@ Sales Manager Shruti Reddy assigned me to perform a sales analysis for EmporiUm,
 - Online Sales is its own sales territory managed separately in the West region and is therefore excluded from this analysis.
 
 
-## KPI Summary for Maryland
+## Executive Summary for Maryland
 
 - **Total Revenue:** $11,451,615.09 across four fiscal years
 - **Regional Rank:** #1 in the Northeast Region at 47.25% of total regional revenue
@@ -47,7 +47,7 @@ Sales Manager Shruti Reddy assigned me to perform a sales analysis for EmporiUm,
 
 
 ## Video Demo
-
+https://yearuptemp-my.sharepoint.com/:v:/g/personal/sguerrero_my_yearupunited_org/IQAmqiikXhJbQ7C8UDmVxOP7ASXs2bMyeUJ2WWytS0PXLJo?e=OdAq2p&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## Author
 
